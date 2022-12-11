@@ -2,6 +2,11 @@ body{
     background-color: #F0F2F5;
     margin: auto;
     padding: 20%;
+    margin-top: -250px;
+}
+
+footer{
+    margin-top: 100px;
 }
 
 .cont-img-logo{
