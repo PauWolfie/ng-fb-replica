@@ -9,6 +9,31 @@ footer{
     margin-top: 100px;
 }
 
+.btn-login{
+    width: 100%;
+    font-weight: bold;
+}
+
+.btn-login:hover{
+    font-weight: bold;
+    width: 100%;
+    background-color: #1057b5;
+    border-color: #1057b5;
+}
+
+.btn-create{
+    font-weight: bold;
+    width: 100%;
+    background-color: #42B72A;
+    border-color: #42B72A;
+}
+.btn-create:hover{
+    font-weight: bold;
+    width: 100%;
+    background-color: #36A420;
+    border-color: #36A420;    
+}
+
 .cont-img-logo{
     width: 300px;
 }
