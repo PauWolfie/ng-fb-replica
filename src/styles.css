@@ -1,1 +1,43 @@
-/* You can add global styles to this file, and also import other style files */
+body{
+    background-color: #F0F2F5;
+    margin: auto;
+    padding: 20%;
+}
+
+.cont-img-logo{
+    width: 300px;
+}
+
+.imgLogo{
+    width: 100%;
+}
+
+.cont-itens{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.cont-card{
+    background-color: #FFF;
+    border-radius: 5px;
+    width: 25rem;
+    box-shadow: 1px 1px 10px 1px rgb(211, 211, 211);
+    padding: 5%;
+}
+
+.itens{
+
+}
+
+.font{
+    font-size: 28px;
+    font-family: "Helvetica";
+    margin-left: 31px;
+}
+
+.cont-butt-login{
+    width: 100%;
+    padding: 13px;
+    margin: auto;
+}
