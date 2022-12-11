@@ -1,6 +1,6 @@
 # Facebook login page clonation
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.0.1.\\
+This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.0.1.\
 
 __DISCLAIMER:__ *This project was developed only for testing and practicing prupose. Do not try this at home. I am not responsible for any misuse of this application, be good kids.*
 ## Development server
